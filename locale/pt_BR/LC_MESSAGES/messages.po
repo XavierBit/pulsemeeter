@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: pulsemeeter 2.0.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-08-17 16:10-0300\n"
-"PO-Revision-Date: 2025-08-17 16:56-0300\n"
+"PO-Revision-Date: 2025-08-17 17:08-0300\n"
 "Last-Translator: \n"
 "Language-Team: pt_BR <LL@li.org>\n"
 "Language: pt_BR\n"
@@ -36,7 +36,7 @@ msgstr "Criar novo %s"
 
 #: src/pulsemeeter/clients/gtk/widgets/content.py:62
 msgid "Create device"
-msgstr "Criar dispositivo "
+msgstr "Criar dispositivo"
 
 #: src/pulsemeeter/clients/gtk/widgets/content.py:67
 #: src/pulsemeeter/clients/gtk/widgets/content.py:77
@@ -89,11 +89,11 @@ msgstr "Alternar a função silenciar"
 
 #: src/pulsemeeter/clients/gtk/widgets/common/port_selector_widget.py:19
 msgid "Selected ports: "
-msgstr "Portas selecionadas:"
+msgstr "Portas selecionadas: "
 
 #: src/pulsemeeter/clients/gtk/widgets/common/port_selector_widget.py:37
 msgid "Toggle the port "
-msgstr "Alternar a porta"
+msgstr "Alternar a porta "
 
 #: src/pulsemeeter/clients/gtk/widgets/common/volume_widget.py:38
 #: src/pulsemeeter/clients/gtk/widgets/common/volume_widget.py:41
@@ -140,7 +140,7 @@ msgstr "Habilitar limpeza"
 
 #: src/pulsemeeter/clients/gtk/widgets/containers/settings_menu_box.py:34
 msgid "Enable Tray"
-msgstr "Ativar bandeja "
+msgstr "Ativar bandeja"
 
 #: src/pulsemeeter/clients/gtk/widgets/containers/settings_menu_box.py:35
 msgid "Layout"
@@ -182,11 +182,11 @@ msgstr "Configurações do dispositivo"
 
 #: src/pulsemeeter/clients/gtk/widgets/popovers/device_settings_popover.py:31
 msgid "Nick: "
-msgstr "Apelido:"
+msgstr "Apelido: "
 
 #: src/pulsemeeter/clients/gtk/widgets/popovers/device_settings_popover.py:32
 msgid "Name: "
-msgstr "Nome:"
+msgstr "Nome: "
 
 #: src/pulsemeeter/clients/gtk/widgets/popovers/device_settings_popover.py:33
 msgid "External"
@@ -194,11 +194,11 @@ msgstr "Externo"
 
 #: src/pulsemeeter/clients/gtk/widgets/popovers/device_settings_popover.py:35
 msgid "Device: "
-msgstr "Dispositivo:"
+msgstr "Dispositivo: "
 
 #: src/pulsemeeter/clients/gtk/widgets/popovers/device_settings_popover.py:35
 msgid "Channel Map: "
-msgstr "Mapa do canal:"
+msgstr "Mapa do canal: "
 
 #: src/pulsemeeter/clients/gtk/widgets/popovers/edit_connection_widget.py:28
 msgid "Auto ports"
